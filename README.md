@@ -15,7 +15,7 @@ bash
 npm install -g yo
 npm install -g generator-html-scss-js
 
-> Install `yo` a time only
+> Install `yo` one time only
 
 Then generate a new project in your respective directory:
 
