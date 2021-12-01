@@ -57,6 +57,7 @@ generator-html-scss-js
 ├─ README.md
 └─ **tests**
 └─ app.js
+```
 
 ## Friendly Reminder
 
@@ -64,4 +65,4 @@ generator-html-scss-js
 - Please update the package every month. Run `npm update generator-html-scss-js-2 -g`
 - If you encounter any issue, please file an issue at the repo :)
 - Pull request is always welcome :D
-```
+
