@@ -21,7 +21,7 @@ npm install -g generator-html-scss-js-2
 Then generate a new project in your respective directory:
 
 ```bash
-yo html-scss-js
+yo html-scss-js-2
 ```
 
 ## Folder structure
