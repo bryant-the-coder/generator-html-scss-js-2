@@ -1,12 +1,12 @@
 {
   "name": "generator-html-scss-js-2",
   "version": "0.0.0",
-  "description": "This is for anyone who wanna use this for web development",
+  "description": "This is for anyone who wanna use this for web development. Generator-html-scss-js which is created by me is being depreceated and this is the successor.",
   "homepage": "",
   "author": {
     "name": "Bryant Foo",
     "email": "bryantfoo99@gmail.com",
-    "url": ""
+    "url": "https://github.com/bryant-the-coder/generator-html-scss-js-2"
   },
   "files": [
     "generators"
@@ -14,7 +14,13 @@
   "main": "generators/index.js",
   "keywords": [
     "",
-    "yeoman-generator"
+    "yeoman-generator",
+    "html",
+    "scss",
+    "js",
+    "javascript",
+    "css",
+    "generator-html-scss-js"
   ],
   "devDependencies": {
     "yeoman-test": "^1.7.0",
