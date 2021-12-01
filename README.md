@@ -1,16 +1,17 @@
-# generator-html-scss-js
+# generator-html-scss-js-2
 
 - This is for anyone who wanna use this for web development
 - This package includes languages such as `scss`, `js` and `html`
 
 ## Info
+
 Generator-html-scss-js is being depreceated. Thiss is the **SUCCESSOR** of that generator. Please install this.
 
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-html-scss-js using [npm](https://www.npmjs.com/) (I assume you have pre-installed [node.js](https://nodejs.org/)).
 
-``` bash
+```bash
 npm install -g yo
 npm install -g generator-html-scss-js-2
 ```
@@ -25,7 +26,7 @@ yo html-scss-js
 
 ## Folder structure
 
-``` bash
+```bash
 bash
 generator-html-scss-js
 ├─ .editorconfig
@@ -63,3 +64,4 @@ generator-html-scss-js
 - Please update the package every month. Run `npm update generator-html-scss-js-2 -g`
 - If you encounter any issue, please file an issue at the repo :)
 - Pull request is always welcome :D
+```
